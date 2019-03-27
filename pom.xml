@@ -40,11 +40,6 @@
             <version>1.10.19</version>
             <scope>test</scope>
         </dependency>
-        <!-- <dependency>
-            <groupId>org.osgi</groupId>
-            <artifactId>org.osgi.core</artifactId>
-            <version>5.0.0</version>
-        </dependency> -->
         <dependency>
             <groupId>org.osgi</groupId>
             <artifactId>org.osgi.compendium</artifactId>
